@@ -1,4 +1,4 @@
-## MadhavSales-PowerBI-Dashboar
+## MadhavSales-PowerBI-Dashboard
 
 __Project Overview__
 
